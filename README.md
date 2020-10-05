@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1><i><b></b></i></h1>
-Hi👋 ! I'm Arrizal Bintang Ramadhan, A student from Indonesia
-</br>
+Hi👋 ! I'm Arrizal Bintang Ramadhan, A student from Indonesia</br>
 -🔭 I'm currently studying in MADINATULQURAN Vocational Highschool </br>
 -💻 I'm currently focusing on Android Development,especially flutter
