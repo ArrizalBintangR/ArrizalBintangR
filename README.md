@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <h1><i><b></b></i></h1>
 Hi👋 ! I'm Arrizal Bintang Ramadhan, A student from Indonesia
 
--🔭 I'm currently studying in MADINATULQURAN Vocational Highschool
+-🔭 I'm currently studying in MADINATULQURAN Vocational Highschool </br>
 -💻 I'm currently focusing on Android Development,especially flutter
