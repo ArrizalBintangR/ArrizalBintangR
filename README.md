@@ -1,19 +1,30 @@
 ### Hi there 👋
 
-<!--
-**ArrizalBintangR/ArrizalBintangR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+const express = require('express');
+const app = express();
+const port = process.ENV.PORT || 8000;
 
-Here are some ideas to get you started:
+class CloudComputing {
+    constructor() {
+        this.name = "Arrizal Bintang Ramadhan";
+        this.role = "Software Engineer";
+        this.languageSpoken = ["en_US", "id_ID", "ja_JP"];
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Android Development 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1><i><b></b></i></h1>
-Hi👋 ! I'm Arrizal Bintang Ramadhan, A student from Indonesia</br>
--🔭 I'm currently studying in Bhayangkara Jakarta Raya university</br>
+    sayHi() {
+        return "Thanks for dropping by, hope you find something interesting.";
+    }
+}
+
+app.get('/', (req, res) => {
+    const me = new SoftwareEngineer();
+    res.send(me.sayHi());
+});
+
+app.listen(port, () => {
+    console.log(`we're running at full speed, grab your gears fellas, we are in http://localhost:${port}`);
+});
+```
+
+
