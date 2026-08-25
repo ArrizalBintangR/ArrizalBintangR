@@ -74,7 +74,7 @@
 ## Year Progress
 
 <!-- YEAR_PROGRESS_START -->
-- Year progress 2026 { ███████████████████___________ } 64.93%
+- Year progress 2026 { ████████████████████__________ } 65.21%
 <!-- YEAR_PROGRESS_END -->
 
 ---
